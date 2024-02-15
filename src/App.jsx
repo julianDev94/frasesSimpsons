@@ -7,7 +7,7 @@ import Frase from "./components/Frase";
 function App() {
   return (
     <Container className="text-center my-3">
-      <Image src={logo}lassName="w-50" />
+      <Image src={logo} className="w-50" />
       <Frase />
       <Button variant="warning">Obtener frase</Button>
     </Container>
