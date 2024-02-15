@@ -1,5 +1,5 @@
 import { Image, Card } from "react-bootstrap";
-import ImagenSimpsons from "./src/assets/Moe_Szyslak.png"
+import ImagenSimpsons from "../assets/Moe_Szyslak.png"
 const Frase = () => {
     return (
         <section className="my-3">
