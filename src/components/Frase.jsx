@@ -1,5 +1,5 @@
 import { Image, Card } from "react-bootstrap";
-
+import ImagenSimpsons from "./src/assets/Moe_Szyslak.png"
 const Frase = () => {
     return (
         <section className="my-3">
@@ -7,7 +7,7 @@ const Frase = () => {
             Moe Szyslak
         </h2>
         <hr />
-        <Image src="/src/assets/Moe_Szyslak.png"></Image>
+        <Image src={ImagenSimpsons}></Image>
         <Card>
         <Card.Body>
           <figure>
