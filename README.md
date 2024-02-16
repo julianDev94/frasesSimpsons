@@ -1,8 +1,17 @@
-# React + Vite
+# Proyecto Simpsons
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto de los Simpsons en la cual hacemos uso de APIs para solicitar los personajes de los simpsons.
 
-Currently, two official plugins are available:
+## Librerias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React-Bootstrap](https://react-bootstrap.github.io)
+- [Boostrap v5.3.2](https://getbootstrap.com/)
+
+## Demo de mi página
+
+- [Página Simpsons](https://frases-simpsons-practica.netlify.app)
+- 
+
+## Autor
+
+- Cristian Julian Aballay
