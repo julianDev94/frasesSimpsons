@@ -10,7 +10,6 @@ Proyecto de los Simpsons en la cual hacemos uso de APIs para solicitar los perso
 ## Demo de mi página
 
 - [Página Simpsons](https://frases-simpsons-practica.netlify.app)
-- 
 
 ## Autor
 
