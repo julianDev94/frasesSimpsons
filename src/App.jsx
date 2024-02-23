@@ -14,6 +14,7 @@ const [mostrarSpinner, setMostrarSpinner] = useState(true);
   }, []);
 
   const consultarAPI = async () =>{
+    setMostrarSpinner(true);
     // console.log('esta funcion se llama en montaje');
     const consult = await fetch(`https://thesimpsonsquoteapi.glitch.me/quotes`);
     const datos = await consult.json();
